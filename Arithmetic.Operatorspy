@@ -1,0 +1,53 @@
+"""
+Just like mathematics where we have BODMAS FOR OUR ARITHMETIC OPERATIONS,IN PYTHPON WE HAVE PEMDAS
+P : PARENTHESIS
+E : EXPONENTS
+M : MULTIPLICATION
+D : DIVISION
+A : ADDITION
+S : SUBTRACTION
+"""
+
+
+"""
++ Addition
+- Subtraction
+* Multiplication
+** Exponent
+/ Division
+// Division
+% Modulus
+
+"""
+# + :GIVES RESULT OF ADDITION
+print( 50 + 50)
+# result is 100
+
+# - : GIVES RESULT OF SUBTRACTION
+print(20 - 4)
+# result is 16
+
+# * : GIVES RESULT OF MULTIPLICATION
+print(38*2)
+#r result is 76
+
+# ** : GIVES RESULT OF POWER
+print( 2 ** 5)
+# result is 32
+
+print(2 ** 5 - 20 + 6*6)
+# result is 48
+
+# /: GIVES FLOAT NUMBER AS RESULT
+print(4 / 2)
+# result is 2.0
+
+# // : GIVES INTEGER AS RESULT
+print(4 // 2)
+# result is 2
+
+# % :  GIVES REMAINDER AS RESULT
+print(4 % 3)
+# result is 1
+
+print(100+100//2)
