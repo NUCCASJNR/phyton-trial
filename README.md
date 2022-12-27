@@ -10,5 +10,5 @@ ALAREEF
 email: alareefadegbite@gmail.com
 
 ## SOCIAL LINKS
-- Github: [@NUCCASJNR](https://github.com/NUCCASJNR)
-- Twitter: [@Al_ar_eef](https://twitter.com/Al-ar_eef)
+- Github: [NUCCASJNR](https://github.com/NUCCASJNR)
+- Twitter: [Al_ar_eef](https://twitter.com/Al_ar_eef)
